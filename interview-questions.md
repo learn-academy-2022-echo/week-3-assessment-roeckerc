@@ -62,3 +62,4 @@ The info contained in the <span> is going to have different background than the 
 4. Ruby blocks: they contain chunks of code, it has an assigned name, its enclosed in ({})
 
 5. Ruby hashes: its like an array, actualy it sounds more like a bunch of objects, keys and value pairs. hmmm this is silly. it says, its like an array, but instead of 0 indexed it has the help of "arbitrary keys of any object type". thats confusing. 
+
